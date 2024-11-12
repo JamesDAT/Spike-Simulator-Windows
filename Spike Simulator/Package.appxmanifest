@@ -9,14 +9,14 @@
 
   <Identity
     Name="b192191e-5534-4ff7-adcb-0e978fd40418"
-    Publisher="CN=tsdog"
+    Publisher="CN=jamesdat"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="b192191e-5534-4ff7-adcb-0e978fd40418" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Spike Simulator</DisplayName>
-    <PublisherDisplayName>tsdog</PublisherDisplayName>
+    <PublisherDisplayName>JamesDAT</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
